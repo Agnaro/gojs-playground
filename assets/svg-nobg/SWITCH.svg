@@ -1,0 +1,26 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="29.9" viewBox="0 0 30 29.9"  x="10" y="10">
+  <defs>
+    <style>
+      .SWITCH-cls-1 {
+        fill: none;
+      }
+
+      .SWITCH-cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .SWITCH-cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath  transform="translate(-10 -10)">
+      <rect class="SWITCH-cls-1" y="0.1" width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <title>SWITCH</title>
+  <g class="SWITCH-cls-2">
+    <g class="SWITCH-cls-2">
+      <path class="SWITCH-cls-3" d="M26.5,33.9H28a1.54,1.54,0,0,1,1.5,1.5H40v3H29.4a1.54,1.54,0,0,1-1.5,1.5h-6a1.54,1.54,0,0,1-1.5-1.5H10v-3H20.5A1.54,1.54,0,0,1,22,33.9h1.5v-3H19a1.54,1.54,0,0,1-1.5-1.5V11.5A1.54,1.54,0,0,1,19,10H31a1.54,1.54,0,0,1,1.5,1.5V29.4A1.54,1.54,0,0,1,31,30.9H26.5v3m0-18H28v-3H26.5Zm-6,0h3v-3h-3Zm0,6h3v-3h-3Zm0,6h3v-3h-3Z" transform="translate(-10 -10)"/>
+    </g>
+  </g>
+</svg>

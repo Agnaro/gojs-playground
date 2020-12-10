@@ -1,0 +1,36 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="30" height="21.5" viewBox="0 0 30 21.5" x="11" y="14">
+  <defs>
+    <style>
+      .INSTALLATION-cls-1, .INSTALLATION-cls-2 {
+        fill: none;
+      }
+
+      .INSTALLATION-cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .INSTALLATION-cls-3 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .INSTALLATION-cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath >
+      <rect class="INSTALLATION-cls-1" width="50" height="50"/>
+    </clipPath>
+    <clipPath  transform="translate(-10 -14.2)">
+      <rect class="INSTALLATION-cls-1" width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <title>INSTALLATION</title>
+  <g class="INSTALLATION-cls-3">
+    <g class="INSTALLATION-cls-3">
+      <path class="INSTALLATION-cls-4" d="M10,14.2v9.4h5.7V19.8h2.5v3.8h5.7V14.2Zm3.8,4.2H11.3V15.9h2.5Zm4.4,0H15.7V15.9h2.5Zm4.4,0H20.1V15.9h2.5Z" transform="translate(-10 -14.2)"/>
+      <path class="INSTALLATION-cls-4" d="M26.1,14.2v9.4h5.7V19.8h2.5v3.8H40V14.2Zm3.8,4.2H27.4V15.9h2.5Zm4.4,0H31.8V15.9h2.5Zm4.4,0H36.2V15.9h2.5Z" transform="translate(-10 -14.2)"/>
+      <path class="INSTALLATION-cls-4" d="M10,26.3v9.4h5.7V31.9h2.5v3.8h5.7V26.3Zm3.8,4.2H11.3V28h2.5Zm4.4,0H15.7V28h2.5Zm4.4,0H20.1V28h2.5Z" transform="translate(-10 -14.2)"/>
+      <path class="INSTALLATION-cls-4" d="M26.1,26.3v9.4h5.7V31.9h2.5v3.8H40V26.3Zm3.8,4.2H27.4V28h2.5Zm4.4,0H31.8V28h2.5Zm4.4,0H36.2V28h2.5Z" transform="translate(-10 -14.2)"/>
+    </g>
+  </g>
+</svg>

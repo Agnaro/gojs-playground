@@ -1,0 +1,36 @@
+{
+  "compileOnSave": false,
+  "exclude": [
+    "node_modules",
+    "test/**/*.spec.ts"
+  ],
+  "include": [
+    "src/**/*"
+  ],
+  "compilerOptions": {
+    "importHelpers": true,
+    // We specify target/module/moduleResolution because module's default depends
+    // on target, and moduleResolution's default depends on module. Better to
+    // avoid confusion by hardcoding them.
+    "target": "es6",
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "lib": [
+      "DOM",
+      "ES2015"
+    ],
+    // These files help for debugging. tsconfig.prod.json will disable this feature for production.
+    "sourceMap": true,
+    // Place output in ./dist/out-tsc where RPM packaging can find it
+    // TODO - Standardize all projects to use "dist" or "lib" instead of alternating between the two.
+    "outDir": "dist",
+    // TODO - Not clear why we need this here, but not worth investigating right now.
+    "baseUrl": "src",
+    // This is needed because our dependancies have conflicting type names
+    "skipLibCheck": true,
+    "experimentalDecorators": true,
+    "types": [
+      "gojs"
+    ]
+  }
+}

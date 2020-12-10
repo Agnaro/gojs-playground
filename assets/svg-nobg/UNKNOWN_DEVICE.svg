@@ -1,0 +1,16 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="49.62" height="49.62" viewBox="0 0 49.62 49.62"  x="10" y="10">
+  <defs>
+    <style>
+      .UNKNOWN_DEVICE-cls-1 {
+        fill: none;
+      }
+
+      .UNKNOWN_DEVICE-cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>UNKNOWN_DEVICE</title>
+  <path class="UNKNOWN_DEVICE-cls-1" d="M.27-.78H49.89V48.85H.27Z" transform="translate(-0.27 0.78)"/>
+  <path class="UNKNOWN_DEVICE-cls-2" d="M22.55,38h5.16V32.83H22.55ZM25.13,7A10.32,10.32,0,0,0,14.81,17.35H20a5.16,5.16,0,0,1,10.32,0c0,5.16-7.74,4.52-7.74,12.9h5.16c0-5.8,7.74-6.45,7.74-12.9A10.31,10.31,0,0,0,25.13,7Z" transform="translate(-0.27 0.78)"/>
+</svg>

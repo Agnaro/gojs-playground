@@ -1,0 +1,26 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="29.6" height="29.7" viewBox="0 0 29.6 29.7" x="11" y="11">
+  <defs>
+    <style>
+      .GROUP-cls-1 {
+        fill: none;
+      }
+
+      .GROUP-cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .GROUP-cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath  transform="translate(-10.3 -10.2)">
+      <rect class="GROUP-cls-1" width="50" height="50"/>
+    </clipPath>
+  </defs>
+  <title>GROUP</title>
+  <g class="GROUP-cls-2">
+    <g class="GROUP-cls-2">
+      <path class="GROUP-cls-3" d="M10.3,10.3v5.4h1.3V34.5H10.3v5.4h5.4V38.6H34.5v1.3h5.4V34.5H38.6V15.6h1.3V10.2H34.5v1.3H15.6V10.2m0,4.1H34.4v1.3h1.3V34.4H34.4v1.3H15.6V34.4H14.3V15.6h1.3M17,17V27.7h4V33H33V21H27.6V17m-8,2.6H25V25H19.6m8.1-1.3h2.7v6.7H23.7V27.7h4" transform="translate(-10.3 -10.2)"/>
+    </g>
+  </g>
+</svg>

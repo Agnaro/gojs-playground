@@ -1,0 +1,16 @@
+{
+  "name": "gojs-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "browserify": "^17.0.0",
+    "gojs": "^2.1.31"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  },
+  "scripts": {
+    "build": "tsc; browserify dist/index.js --debug -o dist/bundle.js"
+  }
+}
