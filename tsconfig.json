@@ -13,7 +13,7 @@
     // on target, and moduleResolution's default depends on module. Better to
     // avoid confusion by hardcoding them.
     "target": "es6",
-    "module": "commonjs",
+    "module": "CommonJS",
     "moduleResolution": "node",
     "lib": [
       "DOM",

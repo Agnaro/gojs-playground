@@ -664,10 +664,12 @@ function group() {
   newDiagram.model = go.GraphLinksModel.fromJson(serializedDiagram);
 
   console.log("before containment")	// ER_NOTE
+  newDiagram.startTransaction("TEST");
   generateContainmentGroups(newDiagram, newDiagram.model as go.GraphLinksModel);
   console.log("after Containment")	// ER_NOTE
 
   runLayout(newDiagram);
+  newDiagram.commitTransaction("TEST")
   console.log("after layout");
 
   myDiagram.commit(() => {
